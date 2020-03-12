@@ -1,0 +1,1 @@
+D:\plugins\hugo_extended_0.67.0_Windows-64bit\hugo.exe server -D

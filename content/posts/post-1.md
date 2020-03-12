@@ -34,4 +34,4 @@ image = "d043ad4bd11373f07f9d0f2902b7bdfffaed0427.jpg"
 
 3.日语的发音规则其实相对于汉语的抑扬顿挫来说其实要简单地多，所以我们上手掌握的速度也会快些，只需记住日语的五十音，我们就能够读出所有的单词和句子，这也算是我们读日语的优势了。
 
-Source: <https://baijiahao.baidu.com/s?id=1636060267397314078&wfr=spider&for=pc>
+Source: <https://baijiahao.baidu.com/s?id=1636060267397314078>
