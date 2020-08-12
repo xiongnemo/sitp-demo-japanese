@@ -1,4 +1,4 @@
-baseurl = "https://anzupop-sitp-japanese.netlify.com" 
+baseurl = "https://sitp-demo-japanese.anzupop.com" 
 title = "Me Potential"
 theme = "hugo-swift-theme"
 author = "Steve Francia"
@@ -20,8 +20,8 @@ pygmentsCodefencesGuessSyntax = true
   # image = "placeholder-image.png" # used whenever a page image is not set
   # blogDir = "blogFolderName" # uncomment and edit to exclude normal pages ... see issue #57
 
-# [params.staticman]
-#   endpoint = ""  # URL of your own API deployment (without trailing slash), default: "https://staticman-frama.herokuapp.com"
+[params.staticman]
+  endpoint = "https://sitp-demo-japanese.anzupop.com"  # URL of your own API deployment (without trailing slash), default: "https://staticman-frama.herokuapp.com"
 #   gitProvider = "github"  # Either "github" or "gitlab"
 #   username = "username"  # GitHub/GitLab user name
 #   repository = "repo"  # GitHub/GitLab user name
